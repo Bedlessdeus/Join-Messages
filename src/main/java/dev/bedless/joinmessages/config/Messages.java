@@ -20,7 +20,7 @@ public class Messages extends BaseConfiguration {
 
     @Information({"=====================================Quit Messages=====================================", "Usable Placeholders: %player%, %disabled%, %default%",
             "%player%: Is replaced with the PlayerName",
-            "%disabled%: Doesnt send a message when the player joins",
+            "%disabled%: Doesn't send a message when the player joins",
             "%default%: Shows the default minecraft message when the player joins",
             "PAPI: This message supports PAPI, you may use Installed placeholders as you please!",
             "Preset: &8[&c-&8] %player%"
@@ -29,7 +29,7 @@ public class Messages extends BaseConfiguration {
 
     @Information({"=====================================Join Messages=====================================", "Usable Placeholders: %player%, %disabled%, %default%",
             "%player%: Is replaced with the PlayerName",
-            "%disabled%: Doesnt send a message when the player joins",
+            "%disabled%: Doesn't send a message when the player joins",
             "%default%: Shows the default minecraft message when the player joins",
             "PAPI: This message supports PAPI, you may use Installed placeholders as you please!",
             "Preset: &8[&a+&8] %player%"
