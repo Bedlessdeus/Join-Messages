@@ -1,6 +1,0 @@
-name: JoinMessages
-version: '1.0-SNAPSHOT'
-main: dev.bedless.joinmessages.JoinMessages
-
-softdepend:
-  - PlaceholderAPI

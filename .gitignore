@@ -30,3 +30,8 @@ replay_pid*
 Ultimate-Join-Messages/gradlew
 Ultimate-Join-Messages/gradlew.bat
 Ultimate-Join-Messages/settings.gradle
+/.gradle
+/build
+gradlew
+gradlew.bat
+settings.gradle
